@@ -22,13 +22,13 @@ O Código não fecha as conexões com o banco, prejudicando o desempenho e torna
 1 -2 -3 -4 -6 -7 -8 - 9 - 12
 
 ## Cenário 2 (conexão com o banco não funciona)
-1 - 2 - 3 - 4 - 5 - error
+1 - 2 - 3 - 5 (Sem tratamento)
 
 ## Cenário 3 (conexão com o banco funciona, login e senha incorretos)
-1 - 2 - 3 - 4 - 6 - 7 - 8 - 10 - 11 - error
+1 - 2 - 3 - 4 - 6 - 7 - 8 - 10 - 11 - 12 (Sem tratamento)
 
 ## Cenário 4 (conexão com o banco funciona, login correto senha incorreta)
-1 - 2 - 3 - 4 - 6 - 7 - 8 - 10 - 11 - error
+1 - 2 - 3 - 4 - 6 - 7 - 8 - 10 - 11 - 12 (Sem tratamento)
 
 ![qtscaixabranca](https://github.com/FelipeCherry3/teste-software-caixa-branca/assets/118016424/172c7b77-198f-479d-bebc-c55d7aa7a77f)
 
