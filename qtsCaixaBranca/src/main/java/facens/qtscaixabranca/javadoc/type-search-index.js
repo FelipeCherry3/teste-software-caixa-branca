@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"facens.qtscaixabranca","l":"QtsCaixaBranca"},{"p":"facens.qtscaixabranca","l":"User"}];updateSearchResults();
