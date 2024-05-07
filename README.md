@@ -2,6 +2,8 @@
 
 # Problemas e Erros Identificados
 
+# Javadoc se encontra na branch -> javadoc // [JAVADOC](https://github.com/FelipeCherry3/teste-software-caixa-branca/tree/javadoc/qtsCaixaBranca/src/main/java/facens/qtscaixabranca/javadoc)
+
 ## 1. Falta de Tratamento de Exceção:
 O código captura exceções, mas não faz nada além de imprimir uma mensagem de erro. É importante adicionar tratamento adequado para lidar com as exceções de forma apropriada.
 
